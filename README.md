@@ -1,4 +1,4 @@
-<h2>print('Oiii! Eu sou o João Pedro')</h2>
+Oiii! Me chamo João Pedro</h2>
 
 - 🔭 Hoje estou trabalhando em um projeto pessoal de IK (inverse Kinematics) com python
 - 🌱 Estou apredendo atualmente Django, SQL e Java
