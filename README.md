@@ -1,9 +1,9 @@
-<h2>Oiii! Me chamo João Pedro</h2>
+<h2>Oii! Me chamo João Pedro</h2>
 
-- 🔭 Atualmente estou trabalhando em um projeto pessoal de IK (inverse Kinematics) com python
-- 🌱 Estou apredendo atualmente Django, SQL e Java
-- 📖 Estou estudando atualmente no programa NExT, na CESAR SCHOOL
-- 💬 Me pergunte sobre python, python é tudo
+- 🔭 Atualmente estou trabalhando em um sistema para uma rede de lavanderias usando React.js e FastAPI python
+- 🌱 Estou apredendo atualmente React.js
+- 📖 Estou cursando atualmente bacharelado em Sistemas da Informação na UFPB
+- 💬 Me pergunte sobre python e JavaScript!!!
 - 😄 Pronome: ele/dele
 
 <div align="center" style="display: inline_block">
@@ -14,14 +14,15 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jota-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jota-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Jota-FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img align="center" alt="Jota-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jota-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jota-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jota-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />      
   <img align="center" alt="Jota-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Jota-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Jota-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Jota-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+  <img align="center" alt="Jota-postgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Jota-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Jota-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   <img align="right" alt="Jota-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/16VpBXF.png">
 </div>
 
