@@ -1,8 +1,8 @@
 <h2>Oii! Me chamo João Pedro</h2>
 
-- 🔭 Atualmente estou trabalhando em um sistema para uma rede de lavanderias usando React.js e FastAPI python
-- 🌱 Estou apredendo atualmente React.js
-- 📖 Estou cursando atualmente bacharelado em Sistemas da Informação na UFPB
+- 🔭 Atualmente estou trabalhando em um sistema para uma rede de lavanderias usando React.js e NodeJs
+- 🌱 Estou apredendo atualmente TypeScript
+- 📖 Estou cursando atualmente bacharelado em Ciências da Computação na UNIPÊ
 - 💬 Me pergunte sobre python e JavaScript!!!
 - 😄 Pronome: ele/dele
 
