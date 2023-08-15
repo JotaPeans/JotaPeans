@@ -1,9 +1,9 @@
 <h2>Oii! Me chamo João Pedro</h2>
 
-- 🔭 Atualmente estou trabalhando em um sistema para uma rede de lavanderias usando React.js e NodeJs
-- 🌱 Estou apredendo atualmente TypeScript
-- 📖 Estou cursando atualmente bacharelado em Ciências da Computação na UNIPÊ
-- 💬 Me pergunte sobre python e JavaScript!!!
+- 🔭 Atualmente estou trabalhando em um braço robótico controlado por um controle por gestos e IA
+- 🌱 Estou apredendo atualmente C# e ASP.NET
+- 📖 Estou cursando atualmente bacharelado em Ciências da Computação na CESAR SCHOOL
+- 💬 Me pergunte sobre TypeScript e Robótica!!!
 - 😄 Pronome: ele/dele
 
 <div align="center" style="display: inline_block">
