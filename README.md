@@ -4,7 +4,6 @@
 - 🌱 Estou apredendo atualmente C# e ASP.NET
 - 📖 Estou cursando atualmente bacharelado em Ciências da Computação na CESAR SCHOOL
 - 💬 Me pergunte sobre TypeScript e Robótica!!!
-- 😄 Pronome: ele/dele
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/JotaPeans">
