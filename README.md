@@ -1,7 +1,7 @@
 <h2>Oii! Me chamo João Pedro</h2>
 
 - 🔭 Atualmente estou trabalhando em um braço robótico controlado por um controle por gestos e IA
-- 🌱 Estou apredendo atualmente C# e ASP.NET
+- 🌱 Estou apredendo atualmente C# e .NET
 - 📖 Estou cursando atualmente bacharelado em Ciências da Computação na CESAR SCHOOL
 - 💬 Me pergunte sobre TypeScript e Robótica!!!
 
