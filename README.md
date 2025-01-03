@@ -1,9 +1,9 @@
 <h2>Oii! Me chamo João Pedro</h2>
 
-- 🔭 Atualmente estou trabalhando em um braço robótico controlado por um controle por gestos e IA
-- 🌱 Estou apredendo atualmente C# e .NET
-- 📖 Estou cursando atualmente bacharelado em Ciências da Computação na CESAR SCHOOL
-- 💬 Me pergunte sobre TypeScript e Robótica!!!
+- 🔭 I am currently working on a robotic arm controlled by gesture control and AI.
+- 🌱 I am currently learning C# and .NET
+- 📖 I am currently studying a bachelor's degree in Computer Science at CESAR SCHOOL
+- 💬 Ask me about TypeScript and Robotics!!!
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/JotaPeans">
