@@ -1,7 +1,7 @@
 <h2>Oii! Me chamo João Pedro</h2>
 
-- 🔭 I am currently working on a robotic arm controlled by gesture control and AI.
-- 🌱 I am currently learning C# and .NET
+- 🔭 -
+- 🌱 -
 - 📖 I am currently studying a bachelor's degree in Computer Science at CESAR SCHOOL
 - 💬 Ask me about TypeScript and Robotics!!!
 
